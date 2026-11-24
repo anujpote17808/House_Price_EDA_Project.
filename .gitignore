@@ -1,0 +1,9 @@
+node_modules/
+dashboard/node_modules/
+dashboard/dist/
+.vercel/
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.local
